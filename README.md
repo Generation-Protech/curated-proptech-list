@@ -1,2 +1,3 @@
-# curated-proptech-list
-List of curated proptech startups 
+# Curated Proptech Startups List
+
+Work in progress... Stay tuned. 
