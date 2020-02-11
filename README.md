@@ -12,31 +12,46 @@ funitured temporary apartments
 Housing as a service
 
 21st Real Estate - https://www.21re.de/
-ML location assesment in germany based on tiles
+Machine learning -  location assesment in germany based on tiles
 
-McMakler
+McMakler - https://www.mcmakler.de/
+Digital real estate agent 
 
-GoLiving
+GoLiving - https://goliving.eu/
+Private rooms in fully furnished appartments
 
-Brickblock
+Brickblock - https://www.brickblock.io/
+Cryptocurrency platform for tokenized assets in real es
 
-Homeday
+Homeday - https://www.homeday.de/de/
+Online assesment of real estate 
 
-Exporo
+Maklaro - https://www.maklaro.de/
+Sell agent for real estate
 
-LEVERTON
+Hausgold - https://www.hausgold.de/
+Real Estate assesment with real agents
 
-realbest
+Exporo - https://exporo.de/
+Real estate crowdfunding platform
 
-ZenHomes
+Leverton - https://leverton.ai/
+Natural Language Processing for documents
 
-Housy
+ZenHomes - https://www.zenhomes.com/
+Digital Property Management
 
-Convaron
+Housy - https://www.housy.de/
+Platform for tenants who get contacted by landlords 
 
-Hypofriend
+Convaron - https://www.convaron.com/
+Using image recognition for floor plan analysis
 
-wohnungshelden
+Hypofriend - https://hypofriend.de/
+Online mortage broker
+
+Wohnungshelden - http://www.wohnungshelden.de/
+Digital rental mediation
 
 https://siliconcanals.com/news/9-proptech-startups-in-germany-making-buying-renting-and-selling-properties-easy/
 
@@ -62,8 +77,6 @@ Serthoro
 
 Thing-it
 
-Maklaro
-
 ## Influencer
 
 Nikolai Roth
@@ -81,6 +94,8 @@ Axel Sprring
 Creathor Ventures
 
 Berlin Hyp AG
+
+Rocket Internet
 
 ## Startups Map
 
