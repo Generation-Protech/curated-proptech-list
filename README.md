@@ -8,7 +8,7 @@ Smart sensor platform
 THe world needs better buldings
 
 Wunderflats - https://wunderflats.com/
-funitured temporary apartments 
+Furnitured temporary apartments 
 Housing as a service
 
 21st Real Estate - https://www.21re.de/
@@ -53,63 +53,40 @@ Online mortage broker
 Wohnungshelden - http://www.wohnungshelden.de/
 Digital rental mediation
 
-https://siliconcanals.com/news/9-proptech-startups-in-germany-making-buying-renting-and-selling-properties-easy/
+Deutsche Wohnen - https://www.deutsche-wohnen.com/
+Huge german property company 
+https://de.wikipedia.org/wiki/Deutsche_Wohnen
 
-## Organisations
+HB Reavis - https://hbreavis.com/uk/
+Real estate developer company for workspaces
 
-Berlin Hyp
+Alasco - https://www.alasco.de/ 
+Software for finance data of real estate
 
-BitStone Capital
+Scoperty - https://scoperty.de/
+Data for real estate estimation based on location
 
-Convaron
+Thing-it - https://www.thing-it.com/
+IOT platform for buildings
 
-Deutsche Wohnen
+## VCs & Investors
 
-GreenbergTraurig
+Berlin Hyp - https://www.berlinhyp.de/en/
+Reak estate and mortage bank - focus on investors, housing companies real esatate funds, investment companies and selected developers. 
 
-hbreavvis
-
-Alasco
-
-Scoperty
-
-Serthoro
-
-Thing-it
-
-## Influencer
-
-Nikolai Roth
-
-Proptech.de
-
-https://gpti.de/
-
-## Investors
+BitStone Capital - https://www.bitstonecapital.com/
+Venture capital for real estate
 
 IBB Beteiligungsgesellschaft
+Venture capital for real estate - https://www.ibb-bet.de/en/home.html
+For house building in berlin
 
-Axel Sprring
+Creathor Ventures - https://www.creathor.com/
+VC for technology sartups
 
-Creathor Ventures
-
-Berlin Hyp AG
-
-Rocket Internet
-
-## Startups Map
-
-https://www.proptech.de/2019/12/16/stabile-entwicklung-im-proptech-sektor-proptech-uebersicht-dezember-2019/
+Rocket Internet - https://www.rocket-internet.com/
+General VC for everything
 
 
- KPMG
- 
- SwissPropTech
- 
- 
- 
- ### OUT TODO
- building contractor
- Rhomberg Bau - https://www.rhomberg.com/ - https://de.wikipedia.org/wiki/Rhomberg_Gruppehttps://de.wikipedia.org/wiki/Rhomberg_Gruppe
  
  
